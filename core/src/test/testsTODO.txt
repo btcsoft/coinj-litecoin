@@ -1,0 +1,11 @@
+CoinbaseBlockTest
+    .testReceiveCoinbaseTransaction()
+FilteredBlockAndPartialMerkleTreeTests
+    .serializeDownloadBlockWithWallet()
+BtcFormatTest
+ExchangeRateTest
+MonetaryFormatTest
+DefaultCoinSelectorTest
+DefaultRiskAnalysisTest
+DeterministicKeyChainTest
+KeyChainGroupTest
